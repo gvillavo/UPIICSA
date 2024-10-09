@@ -7,7 +7,7 @@ def main():
 
 def potencia():
     a = eval(input("Hola, ingrese el primer valor: "))
-    b = eval(input("Hola, ingrese el segundo valor: "))    
+    b = eva(input("Hola, ingrese el segundo valor: "))    
 
     return a**b
 
